@@ -16,6 +16,7 @@ const generateUniqueShortCode = async () => {
     return shortCode;
 };
 
+
 export const shortenURL = async (req, res) => {
     try {
         const { longUrl } = req.body;
