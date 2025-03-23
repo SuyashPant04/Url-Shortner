@@ -13,7 +13,7 @@ This project is a simple **URL shortener** that converts long URLs into short, u
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Url-Shortner.git
+git clone https://github.com/SuyashPant04/Url-Shortner.git
 cd Url-Shortner
 ```
 
