@@ -10,10 +10,11 @@ connectMongoDB();
 
 const app = express();
 const PORT = process.env.PORT || 8000;
+const BACKEND_URL = process.env.BACKEND_URL
 
 // Enable CORS
 app.use(cors({
-    origin: "http://localhost:5173", // Allow frontend origin
+    origin: BACKEND_URL, // Allow frontend origin
     credentials: true,
 }));
 
