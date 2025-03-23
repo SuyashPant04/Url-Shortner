@@ -1,5 +1,9 @@
 # URL Shortener
 
+**Frontend:** [https://url-shortner-flame-six.vercel.app/](https://url-shortner-flame-six.vercel.app/)
+
+**Backend:** [https://url-shortner-sx48.onrender.com/](https://url-shortner-sx48.onrender.com/)
+
 ## Brief Explanation
 This project is a simple **URL shortener** that converts long URLs into short, unique URLs. It consists of a **backend** built with **Node.js, Express, and MongoDB**, and a **frontend** built with **React (Vite)**. The backend generates short codes for given URLs and redirects users when they access the short URL. The frontend provides a user-friendly interface for generating and accessing shortened URLs.
 
